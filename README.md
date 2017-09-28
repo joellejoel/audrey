@@ -1,4 +1,4 @@
-# audrey
+# euler
 euler stuff
 
 let n be a positive integer
